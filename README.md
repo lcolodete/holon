@@ -1,1 +1,3 @@
 # holon
+
+Many online courses are built in a non-standardized fashion, without the concerns of navigability, communication, formatting and design. To overcome this difficulty, Holon was developed in order to separate content from navigation, so that the teacher can focus on creating his/her course materials. The project offers an environment featuring easy navigability, that encompasses communication, coordination and cooperation tools, which support and improve the relationships among the students and between the students and the teacher. It is an easy to use platform, that enables the creation and maintenance of online courses, and that can be used by any teacher/tutor, who doesn’t necessarily have to be an expert in web application development.
